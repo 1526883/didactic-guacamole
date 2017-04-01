@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{71EC705A-FFE6-4BCA-9DEB-83376EE6F0C0}</ProjectGuid>
+    <ProjectGuid>{EFC018B3-5854-4638-AFE3-A4756AC47BC9}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebApplication1</RootNamespace>
-    <AssemblyName>WebApplication1</AssemblyName>
+    <RootNamespace>Craftify_Canvas</RootNamespace>
+    <AssemblyName>Craftify Canvas</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -101,9 +101,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>8673</DevelopmentServerPort>
+          <DevelopmentServerPort>12017</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:8673/</IISUrl>
+          <IISUrl>http://localhost:12017/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

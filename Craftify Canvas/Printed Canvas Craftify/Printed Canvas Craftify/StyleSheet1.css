@@ -1,0 +1,148 @@
+﻿body, div, p, ul, li {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:rgb(254, 254, 254);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+header {
+    width: 200%;
+    margin-bottom: 0px;
+
+    
+}
+nav{
+    
+    background-color: gray;
+    color: white;
+    list-style: none;
+    text-align: center;
+    
+}
+
+ul > li{
+    display:inline-block;
+    padding:10px;
+
+}
+ul > li> a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding-right: 50px;
+}
+
+
+article p {
+    padding-top: 20px;
+    display: block;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+.content{
+    width:100%;
+    background-color: bisque;
+    margin-bottom: 8px;
+    min-height: 800px;
+}
+
+.contentText h1 {
+    padding-top: 15px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+
+.contentText2 p{
+    padding-top: 15px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-left: 30px;
+    width: 80%;
+  
+
+}
+
+.Contact_form {
+    padding-right: 100px;
+    float: right;
+    font-size: 15px;
+    margin: 30px;
+    margin-top: 40px;
+    width: 30%;
+    
+}
+
+.Contact_form label {
+        font-family: Georgia, Times, "Times New Roman", serif;
+        font-size: 15px;
+        width:150px;
+        margin-top: 3px;
+        display:inline-block;
+        float:left;
+        padding:3px;
+}
+
+.Contact_form input {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 15px;
+        font-family:Georgia, Times, "Times New Roman", serif ;
+        height:20px; 
+        width:100%; 
+        padding:5px 8px;
+
+ }
+
+
+.Message_form textarea{
+   
+    margin-top: 20px;
+    width:100%; 
+    padding:5px 8px;
+    font-family:Georgia, Times, "Times New Roman", serif ;
+}
+
+.Contact_form input:focus, .Contact_form textarea:focus {
+    background: #fff; 
+    border:1px solid #0094ff; 
+     
+}
+
+
+.submit {
+    background-color: gray;
+    border: 1px solid gray;
+    color:white;
+    float: right;
+    padding: 5px 25px;
+    margin-top: 25px;
+    font-weight: bold;
+    border-radius: 3px;
+
+    
+}
+.submit:hover {
+    cursor: pointer; 
+}
+
+.map{
+    padding-left: 30px;
+    width: 550px;
+}
+
+h4{
+  font-weight: normal;
+  font-size: 15px;
+  margin-left: 20px;
+  padding-left: 30px;
+
+}

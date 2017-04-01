@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PrintedCanvas.master.cs" Inherits="Printed_Canvas_Craftify.PrintedCanvas" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+
+        Printed Canvas
+    </title>
+    <link href="StyleSheet1.css" rel="stylesheet" media="screen" runat="server" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    
+    
+ 
+    </head>
+
+<body>
+
+    <form id="form1" runat="server">
+        
+        <header>
+            <img class="auto-style1" src="iamges/Untitled-1.jpg" width="50%" />
+    </header>
+            <nav> 
+                 <ul>
+                <li><a href="Default.aspx">Home</a></li>
+                <li><a href="Printed.aspx">Printed</a></li>
+                <li><a href="#">Galaxy</a></li>
+                <li><a href="#">Payment</a></li>
+                <li><a href="Contact Us.aspx">Contact Us</a></li>
+                <li><a href="Login.aspx">Login</a></li>   
+                </ul>
+                 </nav>
+    
+        <div class="content">
+        <asp:ContentPlaceHolder id="contentbody" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+
+    <footer>
+  <p>Craftify 2017</p>
+        </footer>
+
+
+  
+
+    </form>
+</body>
+</html>
