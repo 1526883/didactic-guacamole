@@ -15,10 +15,10 @@
  
     <div class="contentText2">
 
-      <p>If you have a question you can submit a Support Request and we'll be happy to help you out.
-        Posterjack customer service is open Mon-Fri 9AM-5PM EST. We will answer your contact request as quickly as possible.
-       If you prefer to speak with us on the phone, please call us Toll Free 1-877-335-3312. 
-        Outside our normal hours we have a phone call answering service that will be happy to take your message.</p>
+      <p>If you have a question, drop a comment below and we will answer your contact request as soon as possible! 
+          You can also leave a message on our Twitter, Facebook and Gmail at craftifycanvas@gmail.com!
+          
+       </p>
 
 
     </div>

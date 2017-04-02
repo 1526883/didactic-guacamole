@@ -1,19 +1,11 @@
-﻿body, div, p, ul, li {
-    padding: 0;
-    margin: 0;
-}
-
+﻿
 body{
-    background-color:rgb(254, 254, 254);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
+    padding: 0px;
+    margin:0px;
 }
-header {
-    width: 200%;
-    margin-bottom: 0px;
 
-    
-}
 nav{
     
     background-color: gray;
@@ -35,20 +27,41 @@ ul > li> a{
     padding-right: 50px;
 }
 
+ul>li>a:hover{
+    color: darkgray;
+}
+
+footer { 
+    display: block;
+    background-color: gray;
+    height: 40px;
+    width: auto;
+    margin: auto;
+    
+}
+
+footer p{
+    float: left;
+    padding-left: 10px;
+   
+    color: white;
+
+}
 
 article p {
-    padding-top: 20px;
+    padding-top:20px;
     display: block;
-    text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
+    width: 90%;
+    padding-left: 40px;
 
 }
 .content{
     width:100%;
-    background-color: bisque;
-    margin-bottom: 8px;
     min-height: 800px;
+    
+    
 }
 
 .contentText h1 {
@@ -66,7 +79,7 @@ article p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
     padding-left: 30px;
-    width: 80%;
+    width:1000px;
   
 
 }
