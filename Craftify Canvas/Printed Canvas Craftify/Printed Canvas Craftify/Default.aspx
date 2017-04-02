@@ -14,19 +14,21 @@
     
     <article>
          <section>
-            <p> Turn and make your favourite photo beautifully printed on canvas!
-       Give the Gift of Lasting Memories!
+            <p><em> Choose and make your favourite photo printed canvas ad it's also a precious way to make as a gift for birthday or wedding gift!
+                
 
-                Putting those amazing photos you have saved on your computer or iPhone on display in your home has never been easier! 
-                Canvas Discount, is a premium printing studio that transforms your favorite photos and pictures into artwork by 
-                printing them onto high quality artist cotton canvas. All those selfies, snapshots from your last vacation or 
-                family photos can now actually be turned into your own personal Picasso!
-
-                So what makes printing on canvas so great? Printing on real canvas adds a personal touch and it’s also a precious way 
-                to treasure great memories and beautiful photos. Not to mention, it makes an amazing birthday or wedding gift!
-            </p>
+              
+           </em> </p>
          </section>
       </article>
+
+    <div class="images">
+        <img src="Images/april_2017-04-02-21-48-55-071.jpg" alt="PrintedCanvasSamples" />
+
+
+
+
+    </div>
 
     
 </asp:Content>

@@ -15,10 +15,10 @@
  
     <div class="contentText2">
 
-      <p>If you have a question, drop a comment below and we will answer your contact request as soon as possible! 
+      <p><em>If you have a question, drop a comment below and we will answer your contact request as soon as possible! 
           You can also leave a message on our Twitter, Facebook and Gmail at craftifycanvas@gmail.com!
           
-       </p>
+       </em></p>
 
 
     </div>

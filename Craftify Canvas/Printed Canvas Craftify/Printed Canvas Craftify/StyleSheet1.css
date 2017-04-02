@@ -1,9 +1,26 @@
 ﻿
-body{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
     padding: 0px;
-    margin:0px;
+    margin: 0px;
+    background-color: #eee4e4;
+
+    
+}
+
+
+#wrapper{
+    width: 1060px;
+    margin: auto;
+
+}
+
+#Banner{
+    background-color:  white;
+    height: 50px;
+    border: 2px solid darkgray;
+
 }
 
 nav{
@@ -35,15 +52,15 @@ footer {
     display: block;
     background-color: gray;
     height: 40px;
-    width: auto;
+    width: 1060px;
     margin: auto;
+    margin-top: 10px;
     
 }
 
 footer p{
     float: left;
     padding-left: 10px;
-   
     color: white;
 
 }
@@ -60,6 +77,8 @@ article p {
 .content{
     width:100%;
     min-height: 800px;
+    border: 2px solid darkgray;
+    background-color: white;
     
     
 }
@@ -84,6 +103,16 @@ article p {
 
 }
 
+
+.images img {
+    width: 80%;
+    height: auto;
+    padding-left: 80px;
+    padding-top: 40px;
+    border-radius: 10px;
+    
+
+}
 .Contact_form {
     padding-right: 100px;
     float: right;

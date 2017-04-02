@@ -17,7 +17,11 @@
 <body>
 
     <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="Banner">
 
+
+            </div>
      
             <nav> 
                  <ul>
