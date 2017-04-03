@@ -1,13 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PrintedCanvas.Master" AutoEventWireup="true" CodeBehind="Contact Us.aspx.cs" Inherits="Printed_Canvas_Craftify.Contact_Us" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="head" Runat="Server">
    
-    <style type="text/css">
-        .auto-style2 {
-            width: 545px;
-            height: 352px;
-        }
-    </style>
-   
+ 
+    
 </asp:Content>
 
 
@@ -22,7 +17,7 @@
 
 
     </div>
-   
+           <!--Reference : https://www.youtube.com/watch?v=_NCmxWCvV0o&t=547s -->
         <div class="Contact_form">
 
         <label>Name:</label>
@@ -41,8 +36,8 @@
 
     </textarea>
 </div>
-
-       <button class="submit" type="submit">Submit</button>
+         
+       <button type="submit" class="submit" >Submit</button>
          
 </div>
        
@@ -50,7 +45,7 @@
           <h4> View location here</h4>  
 
         <div class="map">
-       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.3214661549628!2d114.92948051430633!3d4.885730896452555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32228ac8ee3f7d03%3A0xcacd96016959ec39!2sLaksamana+College+of+Business!5e0!3m2!1sen!2sbn!4v1491020862109" class="auto-style2"></iframe>
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.3214661549628!2d114.92948051430633!3d4.885730896452555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32228ac8ee3f7d03%3A0xcacd96016959ec39!2sLaksamana+College+of+Business!5e0!3m2!1sen!2sbn!4v1491020862109" class="map_iframe"></iframe>
               
  </div> 
             

@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+using System.Net.Mail;
 
 namespace Printed_Canvas_Craftify
 {
@@ -11,7 +7,15 @@ namespace Printed_Canvas_Craftify
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
+        }
 
+        protected void Submit_Click(object sender, EventArgs e)
+        {
+            MailMessage mailMessage = new MailMessage();
+            mailMessage.From = new MailAddress("nursy15@hotmail.com");
+            mailMessage.To.Add("nursy15@hotmail.com");
+            mailMessage.Subject=
         }
     }
 }

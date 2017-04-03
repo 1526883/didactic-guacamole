@@ -6,9 +6,7 @@ body {
     margin: 0px;
     background-color: #eee4e4;
 
-    
 }
-
 
 #wrapper{
     width: 1060px;
@@ -32,36 +30,64 @@ nav{
     
 }
 
-ul > li{
+ul li{
     display:inline-block;
     padding:10px;
 
 }
-ul > li> a{
+ul li a{
     text-decoration: none;
     font-size: 20px;
     color: white;
     padding-right: 50px;
 }
 
-ul>li>a:hover{
+ul li a:hover{
     color: darkgray;
 }
 
-footer { 
+#footer{ 
     display: block;
     background-color: gray;
-    height: 40px;
+    height: 80px;
     width: 1060px;
     margin: auto;
     margin-top: 10px;
     
 }
 
-footer p{
-    float: left;
-    padding-left: 10px;
+#footer p{
     color: white;
+}
+
+/*Reference from http://jsfiddle.net/sKqZJ/ */
+#footer1{
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+
+/*Reference from http://jsfiddle.net/sKqZJ/ */
+#footer2 {
+    float: right;
+    padding-right: 30px;
+   
+}
+
+#footer2 img{
+    width: 20px;
+    height: 20px;
+    padding-left: 5px;
+   
+}
+ #footer2 p {
+     color: #000000;
+
+ }
+
+#footer2 a:hover{
+    color: #eee4e4;
 
 }
 
@@ -103,7 +129,6 @@ article p {
 
 }
 
-
 .images img {
     width: 80%;
     height: auto;
@@ -113,6 +138,8 @@ article p {
     
 
 }
+
+
 .Contact_form {
     padding-right: 100px;
     float: right;
@@ -176,9 +203,12 @@ article p {
     cursor: pointer; 
 }
 
-.map{
-    padding-left: 30px;
-    width: 550px;
+.map_iframe{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 500px;
+    height: 426px;
+       
 }
 
 h4{
@@ -188,3 +218,4 @@ h4{
   padding-left: 30px;
 
 }
+
