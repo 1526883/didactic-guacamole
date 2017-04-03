@@ -83,25 +83,6 @@
     <Content Include="Contact Us.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Images\10 httpsimg0.etsystatic.com06816922855il_fullxfull.751627486_2fso.jpg.jpg" />
-    <Content Include="Images\11.jpg" />
-    <Content Include="Images\2.jpg" />
-    <Content Include="Images\3.jpg" />
-    <Content Include="Images\4.jpg" />
-    <Content Include="Images\41-495_1.jpg" />
-    <Content Include="Images\5- httpswanelo.comstorejaclynrosedesign.jpg" />
-    <Content Include="Images\6.jpg" />
-    <Content Include="Images\7-  httpss-media-cache-ak0.pinimg.com736x23efb623efb62dc548299fb61ac27c454225aa.jpg.jpg" />
-    <Content Include="Images\8- httpss-media-cache-ak0.pinimg.com736x1142061142066378c4e08032564bfc08a77164.jpg.jpg" />
-    <Content Include="Images\9- httpss-media-cache-ak0.pinimg.com736xc48b2fc48b2f87459c536cf0768ee796126798.jpg.jpg" />
-    <Content Include="Images\banner.jpg" />
-    <Content Include="Images\Bannner.jpg" />
-    <Content Include="Images\hand-painted-flowers_23-2147511797.jpg" />
-    <Content Include="Images\Pastel-Backgrounds-392-Elegant-Photo-Wallpaper.jpg" />
-    <Content Include="Images\pattern_color_background_texture_art_50940_3840x1200.jpg" />
-    <Content Include="Images\pic.jpg" />
-    <Content Include="Images\real banner.jpg" />
-    <Content Include="Images\Untitled-1.jpg" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
